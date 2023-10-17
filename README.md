@@ -2,6 +2,7 @@
 # 1차원 빙고만들기 
 # 실행화면
 ![실행화면](https://user-images.githubusercontent.com/104752580/183351263-78181d4e-f8de-4d9c-858d-4c238d840b7e.PNG)
+
 입력한 숫자가 0으로 바뀌면서 좌우상하 대각선으로 3개가 동시에 나열되면 빙고가 나오게 됩니다.
 # 빙고 코드
 ![배열](https://user-images.githubusercontent.com/104752580/183351613-fd8517e2-9973-46dd-9991-91246e7cee02.PNG)
